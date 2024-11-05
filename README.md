@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CESI-Pokedex](https://github.com/JamesMitofsky/CESI-Pokedex)
 
-- 🌱 I’m currently learning **Angular / React / Symfony**
+- 🌱 I’m currently learning **React js & ts / Spring boot / Jest**
 
 - 📫 How to reach me **alban.corno.pro@gmail.com**
 
